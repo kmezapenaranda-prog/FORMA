@@ -1,0 +1,35 @@
+FORMA — Entrena con intención
+Aplicación web instalable para iPhone (PWA)
+
+INCLUYE
+- Rutina Torso A, Pierna A, Torso B y Pierna B.
+- Carreras fáciles miércoles y domingo, progresivas durante 8 semanas.
+- Registro de pesos, repeticiones y series completadas por ejercicio.
+- Temporizador de descansos, mediciones corporales y progreso.
+- Funcionamiento sin cuenta; almacenamiento local y exportación/importación de respaldo JSON.
+- Funciona sin conexión después de abrirla online por primera vez y completar su caché.
+
+PARA PUBLICARLA GRATIS EN GITHUB PAGES
+1. Abre github.com e inicia sesión.
+2. Crea un repositorio público, por ejemplo: forma-fit.
+3. Sube a la RAÍZ del repositorio los archivos de este ZIP (index.html, manifest.webmanifest,
+   sw.js, icon-180.png, icon-192.png, icon-512.png, LEEME.txt). No subas la carpeta contenedora.
+4. Abre Settings > Pages > Build and deployment; selecciona Deploy from a branch.
+   Elige main y / (root), pulsa Save.
+5. Espera a que GitHub publique la página, cuya URL tendrá esta forma:
+   https://TU-USUARIO.github.io/forma-fit/
+6. Desde el iPhone abre esa URL CON SAFARI; toca Compartir > Añadir a pantalla de inicio
+   (en algunas versiones: Compartir > Más > Añadir a pantalla de inicio).
+7. Abre el ícono FORMA desde la pantalla de inicio; quedará como una app independiente.
+
+PREVISUALIZACIÓN SIN PUBLICAR
+- En un ordenador, puedes abrir index.html en un navegador.
+- Para instalar correctamente en iPhone, alojar en HTTPS, como GitHub Pages.
+
+NOTAS
+- No necesita servidores, contraseñas, bases de datos ni servicios externos.
+- Los registros quedan en el navegador de tu dispositivo, NO se sincronizan con otro dispositivo.
+- Haz copias desde Perfil > Exportar regularmente; después puedes importar el respaldo.
+- La rutina es una propuesta general. Ajusta el esfuerzo a tus capacidades, especialmente
+  si aparecen molestias o vienes de un periodo de poca actividad. Si tienes una lesión
+  activa, dolor significativo o una condición médica, consulta a un profesional.
